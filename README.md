@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj1307&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh252-dot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuvraj1307" alt="yuvraj1307" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harsh252-dot" alt="Harsh252-dot" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yuvraj-maharshi-725501228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harsh-maharshi-756b912a5" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-maharshi-756b912a5 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/harsh-maharshi-756b912a5" height="30" width="40" /></a>
   <a href="https://yuvraj1307.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://www.linkedin.com/in/yuvraj-maharshi-725501228/" height="30" width="40" /></a>
 </p>
 
