@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Harsh Maharshi</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
+<h3 align="center">Procient Full Stack Web Developer skilled in the MERN
+stack, known for leveraging Generative AI to innovate within
+tight timelines. Demonstrates expertise in JavaScript,
+React.js, Node.js, and Express.js, with a strong ability to craft
+seamless, scalable web applications. Excels in problemsolving and collaborative environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvraj1307&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh252-dot" /> </p>
 
