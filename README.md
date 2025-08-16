@@ -5,9 +5,11 @@
 
 <!-- 💼 Contact & Links -->
 <p align="center">
-  <a href="www.linkedin.com/in/harsh-maharshi-756b912a5" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-harsh-maharshi-756b912a5style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/harsh-maharshi-756b912a5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh_Maharshi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
   <a href="harshmaharshi571@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-harshmaharshi571@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
