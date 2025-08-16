@@ -1,17 +1,17 @@
 <!-- 🌟 Typing effect headline -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kuldeep+Kumar;Full-Stack+Developer;Web+Enthusiast;MERN+Stack+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9FFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Harsh+Maharshi;Full-Stack+Developer;Web+Enthusiast;MERN+Stack+Specialist" alt="Typing SVG" />
 </div>
 
 <!-- 💼 Contact & Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/kuldeep-kumar-208948357/" target="_blank">
+  <a href="www.linkedin.com/in/harsh-maharshi-756b912a5" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kuldeep_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kuldeepkumar83986@gmail.com">
+  <a href="harshmaharshi571@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-kuldeepkumar83986@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://portfolio-psi-ivory-94.vercel.app/" target="_blank">
+  <a href="https://harsh252-dot-github-io.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -25,7 +25,7 @@
 - 🧠 Currently mastering the *MERN Stack*
 - 🤝 Open to *collaboration and innovative opportunities*
 - 🎯 Focused on *continuous learning and writing quality code*
-- 📫 Reach me at: kuldeepkumar83986@gmail.com
+- 📫 Reach me at: harshmaharshi571@gmail.com
 
 ---
 
@@ -50,11 +50,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kuldeep83986&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh252-dot&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kuldeep83986&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh252-dot&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuldeep83986&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh252-dot&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kuldeep83986&bg_color=1e1e1e&color=00bfff&line=5dbeff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh252-dot&bg_color=1e1e1e&color=00bfff&line=5dbeff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -70,5 +70,5 @@
 ## 👀 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kuldeep83986&label=Profile+Views&color=0e75b6&style=flat" alt="Kuldeep83986" />
+  <img src="https://komarev.com/ghpvc/?username=Harsh252-dot&label=Profile+Views&color=0e75b6&style=flat" alt="Harsh252-dot" />
 </p>
