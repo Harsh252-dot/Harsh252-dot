@@ -15,7 +15,7 @@ seamless, scalable web applications. Excels in problemsolving and collaborative 
   <a href="https://www.linkedin.com/in/harsh-maharshi-756b912a5/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://coruscating-frangollo-f3e284.netlify.app/" target="_blank">
+  <a href="https://stalwart-alpaca-4e0b9d.netlify.app/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
